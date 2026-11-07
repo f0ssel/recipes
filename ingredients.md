@@ -26,6 +26,7 @@ Run `python scripts/recipes.py validate` after editing.
 | baking soda | tsp | baking | yes | bicarbonate of soda | 1 tbsp = 3 tsp |
 | bay leaf | each | spices | yes | dried bay leaf, bay leaves |  |
 | black pepper | tsp | spices | yes | pepper, ground black pepper | 1 tbsp = 3 tsp |
+| boneless skinless chicken breast | lb | meat & seafood | no | chicken breast, chicken breasts | 1 breast ≈ 1/2 lb |
 | canned black beans (15 oz) | can | canned & jarred | no | black beans, can black beans | 1 can ≈ 1.5 cup drained |
 | canned kidney beans (15 oz) | can | canned & jarred | no | kidney beans, can kidney beans, red kidney beans | 1 can ≈ 1.5 cup drained |
 | canned tomato sauce (15 oz) | can | canned & jarred | no | tomato sauce, can tomato sauce | 1 can ≈ 1.75 cup |
@@ -42,6 +43,8 @@ Run `python scripts/recipes.py validate` after editing.
 | granulated sugar | cup | baking | yes | sugar, white sugar | 1 tbsp = 1/16 cup; 200 g = 1 cup |
 | ground beef | lb | meat & seafood | no | hamburger, minced beef |  |
 | ground cumin | tsp | spices | yes | cumin | 1 tbsp = 3 tsp |
+| ground nutmeg | tsp | spices | yes | nutmeg | 1 tbsp = 3 tsp |
+| heavy cream | cup | dairy & eggs | no | heavy whipping cream, whipping cream, cream | 8 oz = 1 cup; 1 pint = 2 cup; 1 tbsp = 1/16 cup |
 | jalapeño | each | produce | no | jalapeno, jalepeno, jalapeño pepper |  |
 | kosher salt | tsp | spices | yes | salt | 1 tbsp = 3 tsp |
 | lemon | each | produce | no | lemons | 1 lemon ≈ 3 tbsp juice; 1 lemon ≈ 1 tbsp zest |
