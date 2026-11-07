@@ -25,13 +25,18 @@ Run `python scripts/recipes.py validate` after editing.
 | baking powder | tsp | baking | yes |  | 1 tbsp = 3 tsp |
 | baking soda | tsp | baking | yes | bicarbonate of soda | 1 tbsp = 3 tsp |
 | black pepper | tsp | spices | yes | pepper, ground black pepper | 1 tbsp = 3 tsp |
+| carrot | each | produce | no | carrots | 1 medium ≈ 1/2 cup chopped; 1 lb ≈ 6 each |
+| celery | bunch | produce | no | celery stalk, celery rib | 1 bunch ≈ 9 stalk; 1 stalk ≈ 1/2 cup chopped |
 | chicken broth | cup | canned & jarred | no | chicken stock | 1 carton (32 oz) = 4 cup; 1 can (14.5 oz) ≈ 1.75 cup |
 | egg | each | dairy & eggs | no | eggs, large egg |  |
+| fresh rosemary | bunch | produce | no | rosemary, rosemary sprigs | 1 bunch ≈ 6 sprig; 1 sprig ≈ 1 tsp chopped |
+| fresh thyme | bunch | produce | no | thyme, thyme sprigs | 1 bunch ≈ 12 sprig; 1 sprig ≈ 1/2 tsp leaves |
 | garlic | clove | produce | no | garlic clove | 1 tsp minced ≈ 1 clove; 1 tbsp minced ≈ 3 clove; 1 head ≈ 10 clove |
 | granulated sugar | cup | baking | yes | sugar, white sugar | 1 tbsp = 1/16 cup; 200 g = 1 cup |
 | kosher salt | tsp | spices | yes | salt | 1 tbsp = 3 tsp |
 | lemon | each | produce | no | lemons | 1 lemon ≈ 3 tbsp juice; 1 lemon ≈ 1 tbsp zest |
 | olive oil | tbsp | oils & vinegars | yes | extra virgin olive oil, evoo | 1 cup = 16 tbsp; 1 tsp = 1/3 tbsp |
 | unsalted butter | tbsp | dairy & eggs | no | butter | 1 stick = 8 tbsp = 1/2 cup; 1 cup = 16 tbsp |
+| whole chicken | each | meat & seafood | no | chicken, whole fryer, roaster | 1 each ≈ 4 lb; 1 each ≈ 4 cup cooked shredded meat |
 | whole milk | cup | dairy & eggs | no | milk | 1 tbsp = 1/16 cup |
 | yellow onion | each | produce | no | onion, brown onion | 1 medium ≈ 1 cup chopped |
