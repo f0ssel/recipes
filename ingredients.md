@@ -1,0 +1,37 @@
+# Ingredient Index
+
+Every ingredient a recipe uses must have a row here, and recipes must use the
+**exact name** and **unit** from this table. That's what lets meal plans
+combine recipes into one shopping list.
+
+- **Ingredient** — lowercase, singular, what you'd buy (no prep words like
+  "diced"). Keep words that change what you buy: `unsalted butter`,
+  `canned black beans`, `fresh cilantro`.
+- **Unit** — the one unit every recipe uses for this item.
+- **Aisle** — one of: produce, meat & seafood, dairy & eggs, bakery, deli,
+  frozen, canned & jarred, pasta & grains, baking, spices,
+  condiments & sauces, oils & vinegars, snacks, beverages, international, other.
+- **Staple** — `yes` if you normally keep it on hand (listed under "check
+  before you shop" instead of the main list).
+- **Aliases** — other names recipes use for it, comma-separated.
+- **Conversions** — how other measurements map to the unit, used when
+  adding recipes.
+
+Run `python scripts/recipes.py validate` after editing.
+
+| Ingredient | Unit | Aisle | Staple | Aliases | Conversions |
+|---|---|---|---|---|---|
+| all-purpose flour | cup | baking | yes | flour, ap flour, plain flour | 1 lb ≈ 3.6 cup; 125 g = 1 cup |
+| baking powder | tsp | baking | yes |  | 1 tbsp = 3 tsp |
+| baking soda | tsp | baking | yes | bicarbonate of soda | 1 tbsp = 3 tsp |
+| black pepper | tsp | spices | yes | pepper, ground black pepper | 1 tbsp = 3 tsp |
+| chicken broth | cup | canned & jarred | no | chicken stock | 1 carton (32 oz) = 4 cup; 1 can (14.5 oz) ≈ 1.75 cup |
+| egg | each | dairy & eggs | no | eggs, large egg |  |
+| garlic | clove | produce | no | garlic clove | 1 tsp minced ≈ 1 clove; 1 tbsp minced ≈ 3 clove; 1 head ≈ 10 clove |
+| granulated sugar | cup | baking | yes | sugar, white sugar | 1 tbsp = 1/16 cup; 200 g = 1 cup |
+| kosher salt | tsp | spices | yes | salt | 1 tbsp = 3 tsp |
+| lemon | each | produce | no | lemons | 1 lemon ≈ 3 tbsp juice; 1 lemon ≈ 1 tbsp zest |
+| olive oil | tbsp | oils & vinegars | yes | extra virgin olive oil, evoo | 1 cup = 16 tbsp; 1 tsp = 1/3 tbsp |
+| unsalted butter | tbsp | dairy & eggs | no | butter | 1 stick = 8 tbsp = 1/2 cup; 1 cup = 16 tbsp |
+| whole milk | cup | dairy & eggs | no | milk | 1 tbsp = 1/16 cup |
+| yellow onion | each | produce | no | onion, brown onion | 1 medium ≈ 1 cup chopped |
