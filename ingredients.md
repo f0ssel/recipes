@@ -22,6 +22,7 @@ Run `python scripts/recipes.py validate` after editing.
 | Ingredient | Unit | Aisle | Staple | Aliases | Conversions |
 |---|---|---|---|---|---|
 | all-purpose flour | cup | baking | yes | flour, ap flour, plain flour | 1 lb ≈ 3.6 cup; 125 g = 1 cup |
+| bacon | lb | meat & seafood | no | bacon strips, sliced bacon | 1 slice ≈ 1 oz; 1 lb ≈ 16 slice |
 | baking powder | tsp | baking | yes |  | 1 tbsp = 3 tsp |
 | baking soda | tsp | baking | yes | bicarbonate of soda | 1 tbsp = 3 tsp |
 | bay leaf | each | spices | yes | dried bay leaf, bay leaves |  |
@@ -48,10 +49,14 @@ Run `python scripts/recipes.py validate` after editing.
 | jalapeño | each | produce | no | jalapeno, jalepeno, jalapeño pepper |  |
 | kosher salt | tsp | spices | yes | salt | 1 tbsp = 3 tsp |
 | lemon | each | produce | no | lemons | 1 lemon ≈ 3 tbsp juice; 1 lemon ≈ 1 tbsp zest |
+| lettuce | each | produce | no | head of lettuce, iceberg lettuce, romaine lettuce, green leaf lettuce | 1 head ≈ 8 cup shredded |
+| mayonnaise | tbsp | condiments & sauces | yes | mayo | 1 cup = 16 tbsp |
 | mild italian sausage | lb | meat & seafood | no | ground italian sausage, italian sausage, bulk italian sausage | 1 link ≈ 1/4 lb |
 | olive oil | tbsp | oils & vinegars | yes | extra virgin olive oil, evoo | 1 cup = 16 tbsp; 1 tsp = 1/3 tbsp |
 | parmesan cheese | oz | dairy & eggs | no | parmesan, parmigiano reggiano, grated parmesan | 1 cup grated ≈ 3 oz |
+| sourdough bread | slice | bakery | no | sourdough, sourdough loaf | 1 loaf ≈ 16 slice |
 | spaghetti | oz | pasta & grains | yes | spaghetti noodles, dried spaghetti | 1 box = 16 oz; 1 lb = 16 oz |
+| tomato | each | produce | no | tomatoes, fresh tomato | 1 medium ≈ 1 cup chopped; 1 medium ≈ 4 slice |
 | unsalted butter | tbsp | dairy & eggs | no | butter | 1 stick = 8 tbsp = 1/2 cup; 1 cup = 16 tbsp |
 | whole chicken | each | meat & seafood | no | chicken, whole fryer, roaster | 1 each ≈ 4 lb; 1 each ≈ 4 cup cooked shredded meat |
 | whole milk | cup | dairy & eggs | no | milk | 1 tbsp = 1/16 cup |
