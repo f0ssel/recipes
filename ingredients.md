@@ -35,6 +35,7 @@ Run `python scripts/recipes.py validate` after editing.
 | chipotle chili powder | tsp | spices | yes | chipotle powder, ground chipotle | 1 tbsp = 3 tsp |
 | dried oregano | tsp | spices | yes | oregano | 1 tbsp = 3 tsp |
 | egg | each | dairy & eggs | no | eggs, large egg |  |
+| fresh italian parsley | bunch | produce | no | italian parsley, flat-leaf parsley, parsley | 1 bunch ≈ 1 cup chopped |
 | fresh rosemary | bunch | produce | no | rosemary, rosemary sprigs | 1 bunch ≈ 6 sprig; 1 sprig ≈ 1 tsp chopped |
 | fresh thyme | bunch | produce | no | thyme, thyme sprigs | 1 bunch ≈ 12 sprig; 1 sprig ≈ 1/2 tsp leaves |
 | garlic | clove | produce | no | garlic clove | 1 tsp minced ≈ 1 clove; 1 tbsp minced ≈ 3 clove; 1 head ≈ 10 clove |
@@ -44,7 +45,10 @@ Run `python scripts/recipes.py validate` after editing.
 | jalapeño | each | produce | no | jalapeno, jalepeno, jalapeño pepper |  |
 | kosher salt | tsp | spices | yes | salt | 1 tbsp = 3 tsp |
 | lemon | each | produce | no | lemons | 1 lemon ≈ 3 tbsp juice; 1 lemon ≈ 1 tbsp zest |
+| mild italian sausage | lb | meat & seafood | no | ground italian sausage, italian sausage, bulk italian sausage | 1 link ≈ 1/4 lb |
 | olive oil | tbsp | oils & vinegars | yes | extra virgin olive oil, evoo | 1 cup = 16 tbsp; 1 tsp = 1/3 tbsp |
+| parmesan cheese | oz | dairy & eggs | no | parmesan, parmigiano reggiano, grated parmesan | 1 cup grated ≈ 3 oz |
+| spaghetti | oz | pasta & grains | yes | spaghetti noodles, dried spaghetti | 1 box = 16 oz; 1 lb = 16 oz |
 | unsalted butter | tbsp | dairy & eggs | no | butter | 1 stick = 8 tbsp = 1/2 cup; 1 cup = 16 tbsp |
 | whole chicken | each | meat & seafood | no | chicken, whole fryer, roaster | 1 each ≈ 4 lb; 1 each ≈ 4 cup cooked shredded meat |
 | whole milk | cup | dairy & eggs | no | milk | 1 tbsp = 1/16 cup |
