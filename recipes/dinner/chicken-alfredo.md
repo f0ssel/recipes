@@ -23,10 +23,10 @@ tags: italian, chicken
 
 ## Instructions
 
-1. Flatten the chicken breasts and season with salt, pepper, and nutmeg.
+1. Flatten the chicken breasts and season with salt and pepper.
 2. Sauté the chicken in a pan. Flip when it releases naturally from the pan, cook until done, and set aside.
 3. Boil the noodles.
-4. Deglaze the fond from the chicken with heavy cream and simmer the cream a few minutes.
+4. Deglaze the fond from the chicken with heavy cream, add the nutmeg, and simmer the cream a few minutes.
 5. Remove from heat, add the parmesan, and mix until smooth.
 6. Finish the sauce with lemon juice and butter.
 7. Add the noodles to the sauce and mix.
